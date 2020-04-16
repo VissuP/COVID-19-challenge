@@ -1,5 +1,8 @@
-data/  # data files
-.ipynb_checkpoints/    #Jupyter Notebook checkpoints
+# data files
+data/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/    
 
 # Compiled class file
 *.class
